@@ -29,13 +29,13 @@ Users should be able to:
 ### computer screen
 ![](./images/ss.jpeg)
 ### mobile screen
-![](,/images/Mss.jpeg)
+![](./images/Mss.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/htmlcssflexbox--tTjcPTwO)
+- Live Site URL: [live site URL](https://gigagiorgadze.github.io/four-card-feature-section-master/)
 
 ## My process
 
